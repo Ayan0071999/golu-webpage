@@ -15,7 +15,7 @@ const Momo = () => {
 
     setImages((prev) => [
       ...prev,
-      { id: Date.now(), src: `/images/momo/${randomImage}`, x: randomX, y: randomY },
+      { id: Date.now(), src: `/Images/momo/${randomImage}`, x: randomX, y: randomY },
     ]);
   };
   const clearCanvas = () => {
