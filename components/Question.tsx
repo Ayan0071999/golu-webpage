@@ -57,7 +57,7 @@ const Valentine = () => {
             CLOSE
           </button>
           <Image
-            src="/images/dancing-teddy.gif"
+            src="/Images/dancing-teddy.gif"
             alt="Happy Teddy"
             width={500}
             height={500}
