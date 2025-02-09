@@ -11,7 +11,7 @@ const interests = [
 const HerFav = () => {
   return (
     <div className="mb-8 center min-h-min"> 
-      <h2 className="text-5xl font-bold mb-4 align-center justify-center flex text-[var(--romantic-red)]">Golu's Favourrite</h2>
+      <h2 className="text-5xl font-bold mb-4 align-center justify-center flex text-[var(--romantic-red)]">Golu's Favourite</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         {interests.map((interest, index) => (
           <motion.div
