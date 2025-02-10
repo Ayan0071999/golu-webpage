@@ -13,14 +13,14 @@ interface TimelineEvent {
 
 // Timeline events with images and messages
 const timelineEvents: TimelineEvent[] = [
-  { date: "2025-02-06", event: "Rose Day", image: "/Images/valentine-week/rose.gif", message: "A rose for my love!" },
-  { date: "2025-02-07", event: "Propose Day", image: "/Images/valentine-week/propose.gif", message: "The day I confessed my love!" },
-  { date: "2025-02-08", event: "Chocolate Day", image: "/Images/valentine-week/chocolate.gif", message: "Sweet like our love!" },
-  { date: "2025-02-09", event: "Teddy Day", image: "/Images/valentine-week/teddy2.gif", message: "A teddy to hug when I'm not around!" },
-  { date: "2025-02-10", event: "Promise Day", image: "/Images/valentine-week/promise.gif", message: "I promise to always love you!" },
-  { date: "2025-02-11", event: "Hug Day", image: "/Images/valentine-week/hug.gif", message: "Warm hugs, even from afar!" },
-  { date: "2025-02-12", event: "Kiss Day", image: "/Images/valentine-week/kiss.gif", message: "A kiss for my forever love!" },
-  { date: "2025-02-13", event: "Valentine's Day", image: "/Images/valentine-week/valentine.gif", message: "Happy Valentine's, my love!" },
+  { date: "2025-02-07", event: "Rose Day", image: "/Images/valentine-week/rose.gif", message: "A rose for my love!" },
+  { date: "2025-02-08", event: "Propose Day", image: "/Images/valentine-week/propose.gif", message: "The day I confessed my love!" },
+  { date: "2025-02-09", event: "Chocolate Day", image: "/Images/valentine-week/chocolate.gif", message: "Sweet like our love!" },
+  { date: "2025-02-10", event: "Teddy Day", image: "/Images/valentine-week/teddy2.gif", message: "A teddy to hug when I'm not around!" },
+  { date: "2025-02-11", event: "Promise Day", image: "/Images/valentine-week/promise.gif", message: "I promise to always love you!" },
+  { date: "2025-02-12", event: "Hug Day", image: "/Images/valentine-week/hug.gif", message: "Warm hugs, even from afar!" },
+  { date: "2025-02-13", event: "Kiss Day", image: "/Images/valentine-week/kiss.gif", message: "A kiss for my forever love!" },
+  { date: "2025-02-14", event: "Valentine's Day", image: "/Images/valentine-week/valentine.gif", message: "Happy Valentine's, my love!" },
 ];
 
 const Valentine = () => {
